@@ -1,0 +1,12 @@
+pypdf>=5.0
+pdfplumber>=0.11
+scikit-learn>=1.3
+numpy>=1.26
+reportlab>=4.0
+joblib>=1.3
+
+# Optional: only needed if you want OCR fallback for scanned (image-only) pages
+pytesseract>=0.3
+pdf2image>=1.17
+# pdf2image and pytesseract also require the system binaries `poppler-utils`
+# and `tesseract-ocr` to be installed (e.g. `apt install poppler-utils tesseract-ocr`)
