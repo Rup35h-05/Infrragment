@@ -1,0 +1,68 @@
+[
+  {
+    "doc_type": "Loan_Application",
+    "start_page": 1,
+    "end_page": 1,
+    "instance_key": null
+  },
+  {
+    "doc_type": "Form_4506-T",
+    "start_page": 2,
+    "end_page": 2,
+    "instance_key": null
+  },
+  {
+    "doc_type": "Form_1040",
+    "start_page": 3,
+    "end_page": 4,
+    "instance_key": "2019"
+  },
+  {
+    "doc_type": "Form_1040",
+    "start_page": 5,
+    "end_page": 6,
+    "instance_key": "2020"
+  },
+  {
+    "doc_type": "Form_1040",
+    "start_page": 7,
+    "end_page": 8,
+    "instance_key": "2021"
+  },
+  {
+    "doc_type": "W-2",
+    "start_page": 9,
+    "end_page": 9,
+    "instance_key": "2021"
+  },
+  {
+    "doc_type": "Pay_Stub",
+    "start_page": 10,
+    "end_page": 10,
+    "instance_key": "01/01/2022-01/15/2022"
+  },
+  {
+    "doc_type": "Pay_Stub",
+    "start_page": 11,
+    "end_page": 11,
+    "instance_key": "01/16/2022-01/31/2022"
+  },
+  {
+    "doc_type": "Hazard_Insurance_Notice",
+    "start_page": 12,
+    "end_page": 12,
+    "instance_key": null
+  },
+  {
+    "doc_type": "Bank_Statement",
+    "start_page": 13,
+    "end_page": 15,
+    "instance_key": "January 2022"
+  },
+  {
+    "doc_type": "Borrower_Letter",
+    "start_page": 16,
+    "end_page": 16,
+    "instance_key": null
+  }
+]
